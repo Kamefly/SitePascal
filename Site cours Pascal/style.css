@@ -1,0 +1,30 @@
+html{
+
+}
+
+*{
+    margin:0;
+    padding:0;
+}
+title{
+    border:3px inset;
+}
+
+nav{
+    
+}
+body{
+    text-align: center;
+}
+#menu {                                  /* l'id menu sert à avoir un menu... */
+    position: fixed;                     /* ... dont la position est fixe...*/
+    text-align: left;                    /* ... situé à gauche...*/
+    border: 3px inset;                   /* ... avec une petite bordure...*/
+    background-color: lightcoral;        /* ... aavec un fond rouge pâle. */
+    width:10%;
+}
+
+.tableau{                               
+    text-align: center;
+    border: 3px inset;
+}
